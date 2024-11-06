@@ -136,8 +136,8 @@ function main() {
       case ' ':
         tx = 0;
         ty = 0;
-        tx_step = 0.01;
-        ty_step = 0.011;
+        tx_step = 0;
+        ty_step = 0;
         break;
 
     }
